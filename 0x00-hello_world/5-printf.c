@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - prints sentence, followed by a new line.
  *
